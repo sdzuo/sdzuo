@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sdzuo
-- 👀 I’m interested in software engineering/development and responsive web design.
-- 🌱 I’m currently learning JavaScript, HTML5, CSS, Python, and C++.
-- 💞️ I’m looking to collaborate on gaming projects, apps, whatever!
+- 👀 I’m interested in full-stack development.
+- 🌱 I’m currently learning React and I am experienced with HTML5, CSS (frameworks too), JavaScript, Python and C++.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me - sdzuojp@gmail.com
 
 <!---
